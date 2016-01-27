@@ -50,10 +50,11 @@ var suarez = new Rat("Suarez", 5)
 
 
 module.exports = {
-  hero:andrew, 
+  Hero:Hero,
   eggs:eggs,
   bread:bread,
-  suarez: suarez};
+  suarez: suarez
+};
 
 
 
